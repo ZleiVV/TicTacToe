@@ -26,5 +26,5 @@ Le jeu permet également de gérer les scores et l'historique des parties. Le to
 
 ### Cloner le repository
 ```bash
-git clone https://github.com/ton-nom-utilisateur/tictactoe.git
+git clone https://github.com/ZleiVv/tictactoe.git
 cd tictactoe
