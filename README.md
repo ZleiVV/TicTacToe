@@ -20,6 +20,8 @@ Le jeu permet également de gérer les scores et l'historique des parties. Le to
 
 ## Prérequis
 - Compiler avec `gcc` (ou tout autre compilateur compatible C).
+  ```bash
+  gcc chemin du fichier -o main -lncurses
 - La bibliothèque `ncurses` doit être installée sur votre machine.
 
 ## Installation
