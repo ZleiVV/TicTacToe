@@ -18,15 +18,25 @@ Le jeu permet également de gérer les scores et l'historique des parties. Le to
 - **Historique des parties** : Enregistrement de l'historique des parties jouées.
 - **Réinitialisation du jeu** : Réinitialisation des scores et des parties.
 
-## Prérequis
-- Compiler avec `gcc` (ou tout autre compilateur compatible C).
-  ```bash
-  gcc chemin du fichier -o main -lncurses
-- La bibliothèque `ncurses` doit être installée sur votre machine.
-
 ## Installation
 
 ### Cloner le repository
 ```bash
 git clone https://github.com/ZleiVV/tictactoe.git
 cd tictactoe
+```
+
+## Prérequis
+- Compiler avec `gcc` (ou tout autre compilateur compatible C).
+  ```bash
+  gcc chemin du fichier -o main -lncurses
+- La bibliothèque `ncurses` doit être installée sur votre machine.
+
+## Utilisation
+```bash
+./main
+```
+
+
+
+
